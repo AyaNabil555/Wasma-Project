@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Albania</string>
+		<key>description</key>
+		<string>Welcome to New Albania!</string>
+		<key>latitude</key>
+		<real>41.153332</real>
+		<key>longitude</key>
+		<real>20.168331</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>San Francisco</string>
+		<key>description</key>
+		<string>Welcome to San Francisco!</string>
+		<key>latitude</key>
+		<real>37.7749</real>
+		<key>longitude</key>
+		<real>-122.4194</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Los Angeles</string>
+		<key>description</key>
+		<string>Welcome to Los Angeles!</string>
+		<key>latitude</key>
+		<real>34.0522</real>
+		<key>longitude</key>
+		<real>-118.2437</real>
+	</dict>
+    <dict>
+        <key>title</key>
+        <string>Egypt</string>
+        <key>description</key>
+        <string>Welcome to Egypt!</string>
+        <key>latitude</key>
+        <real>26.820553</real>
+        <key>longitude</key>
+        <real>30.802498</real>
+    </dict>
+    <dict>
+        <key>title</key>
+        <string>Algeria</string>
+        <key>description</key>
+        <string>Welcome to Algeria!</string>
+        <key>latitude</key>
+        <real>28.033886</real>
+        <key>longitude</key>
+        <real>1.659626</real>
+    </dict>
+    
+    <dict>
+        <key>title</key>
+        <string>Angola</string>
+        <key>description</key>
+        <string>Welcome to Angola!</string>
+        <key>latitude</key>
+        <real>-11.8775768</real>
+        <key>longitude</key>
+        <real>17.5691241</real>
+    </dict>
+
+<dict>
+    <key>title</key>
+    <string>Baghadad</string>
+    <key>description</key>
+    <string>Welcome to Baghdad, Karkh, Baghdad Governorate, Iraq!</string>
+    <key>latitude</key>
+    <real>33.3024309</real>
+    <key>longitude</key>
+    <real>44.3787992</real>
+</dict>
+
+<dict>
+    <key>title</key>
+    <string>Saudi Arabia</string>
+    <key>description</key>
+    <string>Welcome to Saudi Arabia</string>
+    <key>latitude</key>
+    <real>25.6242618</real>
+    <key>longitude</key>
+    <real>42.3528328</real>
+</dict>
+<dict>
+    <key>title</key>
+    <string>Turkey</string>
+    <key>description</key>
+    <string>Welcome to Turkey</string>
+    <key>latitude</key>
+    <real>38.9597594</real>
+    <key>longitude</key>
+    <real>34.9249653</real>
+</dict>
+
+<dict>
+    <key>title</key>
+    <string>Greece</string>
+    <key>description</key>
+    <string>Welcome to Greece</string>
+    <key>latitude</key>
+    <real>38.9953683</real>
+    <key>longitude</key>
+    <real>21.9877132</real>
+</dict>
+
+<dict>
+    <key>title</key>
+    <string>Libya</string>
+    <key>description</key>
+    <string>Welcome to Libya</string>
+    <key>latitude</key>
+    <real>26.8234472</real>
+    <key>longitude</key>
+    <real>18.1236723</real>
+</dict>
+
+<dict>
+    <key>title</key>
+    <string>Sudan</string>
+    <key>description</key>
+    <string>Welcome to Sudan</string>
+    <key>latitude</key>
+    <real>15.45374395</real>
+    <key>longitude</key>
+    <real>29.79515252</real>
+</dict>
+</array>
+</plist>
